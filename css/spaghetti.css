@@ -1,0 +1,30 @@
+h1{
+    margin-left:650px;
+}
+.container{
+    width: 600px;
+    height: 300px;
+    border: 2px ;
+    background-image: url("../../../Desktop/spaghetti.webp");
+    background-size: 600px 300px;
+    margin-left: 550px;
+    border-radius: 30px;
+
+}
+h1,h2,h3,ul,ol,p{
+    font-family: sans-serif;
+    
+}
+h1,h2,h3{
+    color: hsl(0, 100%, 10%);
+}
+ul,ol,p{
+    color: hsla(0, 85%, 16%, 0.762);
+}
+.definition{
+    margin-top: 100px;
+    margin-bottom: 35px;
+}
+.ingredients_steps{
+    margin-left: 50px;
+}

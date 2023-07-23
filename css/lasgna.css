@@ -1,0 +1,33 @@
+
+h1{margin-left:700px;
+  font-style: normal;
+  font-family: sans-serif;   
+}
+
+
+.container{
+    height: 300px;
+    width:600px;
+    border:2px ;
+    background-image: url(../../../Desktop/lasgna.webp);
+    background-size: 600px 300px ;
+    background-repeat: no-repeat;
+     border-radius:30px ;
+     margin-left: 450px;
+}
+ p ,ol,h2,h3,h1{
+    font-family: sans-serif;
+    color:hsl(45, 25%, 34%)
+}
+body{
+    background-color: hsl(45, 100%, 85%);
+}
+ol li{
+    margin-left: 50px;
+    line-height: 0.75cm;
+}
+.steps
+{ 
+
+
+}

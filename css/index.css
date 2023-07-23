@@ -1,0 +1,23 @@
+img{
+      margin-left: 450px;
+    }
+      h1{
+        transform: translate(695px);
+        color: hsl(0, 0%, 20%);
+        margin-left: -10px;
+      }
+
+      div{
+        display: flex;
+    
+        margin-left: 713px;
+    
+      }
+      a{color: brown;
+        text-decoration:none ;}
+
+        .child{
+            width:100px;
+            height:50px;
+            margin:5px;
+        }
